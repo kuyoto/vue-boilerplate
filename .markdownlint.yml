@@ -1,0 +1,11 @@
+default: true
+
+# rule customizations for mrkdownlint go here
+# https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md
+
+# disable line length restrictions, because editor soft-wrapping is being used instead
+line-length: false
+
+# prettier overrides
+no-multiple-blanks: false
+list-marker-space: false

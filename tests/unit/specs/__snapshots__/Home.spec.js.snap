@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`@views/home should render correct and matches snapshot 1`] = `
+<div class="container">
+  <div class="layout text-center wrap">
+    <div class="flex xs12">
+      <div aria-label="vuetify logo" role="img" class="v-image v-responsive my-3 theme--light" style="height: 200px;">
+        <div class="v-responsive__content"></div>
+      </div>
+    </div>
+    <div class="flex mb-4">
+      <h1 class="display-2 font-weight-bold mb-3">Welcome to Vuetify</h1>
+      <p class="subheading font-weight-regular">For help and collaboration with other vuetifydevlopers, <br>please
+        join our online
+        <a href="https://community.vuetifyjs.com" target="_blank">Discord community</a></p>
+    </div>
+    <div class="flex xs12 mb-5">
+      <h2 class="headline font-weight-bold mb-3">What's next?</h2>
+      <div class="layout justify-center"><a href="https://vuetifyjs.com/components/api-explorer" target="_blank" class="subheading mx-3">Explore components</a><a href="https://vuetifyjs.com/layout/pre-defined" target="_blank" class="subheading mx-3">Select a layout</a><a href="https://vuetifyjs.com/getting-started/frequently" target="_blank" class="subheading mx-3">FAQ</a></div>
+    </div>
+    <div class="flex xs12 mb-5">
+      <h2 class="headline font-weight-bold mb-3">Essential Links</h2>
+      <div class="layout justify-center"><a href="https://vuetifyjs.com" target="_blank" class="subheading mx-3">Documentation</a><a href="https://community/vuetifyjs.com" target="_blank" class="subheading mx-3">Chat</a><a href="https://madewithvuejs/vuetify" target="_blank" class="subheading mx-3">Made with Vuetify</a><a href="https://twitter.com/vuetifyjs" target="_blank" class="subheading mx-3">Twitter</a><a href="https://medium.com/vuetify" target="_blank" class="subheading mx-3">Articles</a></div>
+    </div>
+    <div class="flex xs12 mb-5">
+      <h2 class="headline font-weight-bold mb-3">Ecosystem</h2>
+      <div class="layout justify-center"><a href="https://github.com/vuetifyjs/vuetifyjs-loader" target="_blank" class="subheading mx-3">vuetify-loader</a><a href="https://github.com/vuetifyjs/vuetifyjs" target="_blank" class="subheading mx-3">github</a><a href="https://github.com/vuetifyjs/awesome-vuetifyjs" target="_blank" class="subheading mx-3">awesome-vuetify</a></div>
+    </div>
+  </div>
+</div>
+`;

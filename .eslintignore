@@ -1,0 +1,3 @@
+/dist/*.js
+/*.js
+/test/unit/coverage
